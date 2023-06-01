@@ -46,7 +46,3 @@ const App = () => {
 export default App;
 
 
-// function hello(e){
-//     e.preventDefault();
-
-// }
